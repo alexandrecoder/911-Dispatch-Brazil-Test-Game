@@ -1,0 +1,6 @@
+{
+  "name": "CentrOps 190/193 — Comando de Emergência Urbano",
+  "description": "Simulador tático de administração de serviços de emergência em cidades reais com veículos 3D, construção de bases e despacho em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
